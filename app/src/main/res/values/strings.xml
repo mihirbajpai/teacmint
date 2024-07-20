@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeachMint - Mihir Bajpai</string>
+    <string name="repository_details">Repository Details</string>
+    <string name="owner">Owner: %1$s</string>
+    <string name="description">"Description: "</string>
+    <string name="no_description_available">No description available</string>
+    <string name="contributors">"Contributors: "</string>
+    <string name="url">URL</string>
+    <string name="url_">"URL: "</string>
+    <string name="type_to_search">Type to search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="please_connect_to_the_internet_and_reopen_the_app">Please connect to the internet and reopen the app!</string>
+</resources>
